@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> Marquee<title>
+</head>
+<body>
+<marquee>Hello World</marquee>
+<a href="Anchor.html" target="_blank">Another page</a>
+</body>
+</html>
